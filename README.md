@@ -16,3 +16,6 @@ Se utilizarán los parquímetros la ciudad ya que, además de poseer un gran vol
 El objetivo final de este trabajo es utilizar la información ofrecida por los parquímetros en tiempo real para generar predicciones de qué lugares de estacionamiento se encontrarán libres en un momento determinado. En particular el proyecto tiene dos objetivos específicos: 
 - Recolectar y analizar datos de parquímetros de la ciudad de Tandil para determinar las acciones de los conductores y los hábitos de estacionamiento.
 - Desarrollar modelos de machine learning capaz de predecir lugares libres para estacionar.
+
+### Conclusiones
+La hipótesis en la que se afirmaba que es posible extraer información sobre las acciones de los conductores a través de los parquímetros de la ciudad de Tandil fue validada. Se pudo observar que los conductores tienden a seguir el mismo patrón de estacionamiento. A las 10 de la mañana se visualiza una gran cantidad de entradas al sistema, disminuyendo gradualmente hacia el mediodía y volviendo a aumentar el valor a la tarde. Además se advirtieron diferencias en la ocupación de cada calle según el día y el mes en el que ocurrieron.
